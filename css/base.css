@@ -1,0 +1,12 @@
+body {
+  width: 480px;
+  height: 767px;
+  margin: auto;
+}
+
+div {
+  border: 1px solid black;
+  text-align: center;
+  background-color: lightgray;
+  float: left;
+}
